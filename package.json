@@ -1,5 +1,6 @@
 {
-  "name": "apish",
+  "name": "apish-fork",
+  "version": "1.2.12",
   "description": "Mock APIs and Services from API Blueprint or Swagger",
   "main": "dist/apish.js",
   "scripts": {
@@ -15,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JackuB/apish.git"
+    "url": "https://github.com/yulingchen/apish.git"
   },
   "keywords": [
     "api",
@@ -39,14 +40,14 @@
   },
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.1.1",
+    "bluebird": "^3.4.1",
     "deckardcain": "^0.3.2",
     "fury": "^2.1.0",
-    "fury-adapter-swagger": "^0.8.0-pre.16",
+    "fury-adapter-swagger": "^0.8.0",
     "lodash": "^4.13.1",
     "lodash-api-description": "0.0.2",
     "nock": "^8.0.0",
-    "protagonist": "^1.2.5",
+    "protagonist": "^1.5.0-pre.0",
     "uri-template-lite": "^0.1.11",
     "urijs": "^1.17.0"
   },
