@@ -1,6 +1,6 @@
 {
   "name": "apish-fork",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "description": "Mock APIs and Services from API Blueprint or Swagger",
   "main": "dist/apish.js",
   "scripts": {
@@ -43,7 +43,7 @@
     "bluebird": "^3.4.1",
     "deckardcain": "^0.3.2",
     "fury": "^2.1.0",
-    "fury-adapter-swagger": "^0.8.0",
+    "fury-adapter-swagger-fork": "^0.12.4",
     "lodash": "^4.13.1",
     "lodash-api-description": "0.0.2",
     "nock": "^8.0.0",

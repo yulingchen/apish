@@ -1,5 +1,5 @@
 import fury from 'fury';
-import swaggerAdapter from 'fury-adapter-swagger';
+import swaggerAdapter from 'fury-adapter-swagger-fork';
 
 import Promise from 'bluebird';
 
